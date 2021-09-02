@@ -11,6 +11,17 @@
 ![Angular](https://img.shields.io/badge/-Angular-%231572B6?style=flat-square&logo=Angular&logoColor=red&labelColor=%23E44D27f)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
 ![Deno](https://img.shields.io/badge/-Deno-%23282C34?style=flat-square&logo=deno)
+![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=Java&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-MySQL-%232C3A42?style=flat-square&logo=mysql&logoColor=%23ffffff)
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-%231a202c?style=flat-square&logo=Jenkins)
+![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-%231a202c?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-%231a202c?style=flat-square&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-%231a202c?style=flat-square&logo=Linux)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%231a202c?style=flat-square&logo=Webpack)
+![Discord.js](https://img.shields.io/badge/-Discord-%231a202c?style=flat-square&logo=Discord)
 
