@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-%23282C34?style=flat-square&logo=nestjs)
 ![Deno](https://img.shields.io/badge/-Deno-%23282C34?style=flat-square&logo=deno)
 ![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=Java&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232C3A42?style=flat-square&logo=mysql&logoColor=%23ffffff)
